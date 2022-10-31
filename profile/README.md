@@ -6,11 +6,25 @@ It is based on *Symfony Flex*, *Doctrine ORM*, *API Platform*, *Twig* for maximu
 Roadiz node system allows you to create your data schema and to organize your content as you want. 
 We designed it to break technical constraints when creating tailor-made websites architectures and layouts.
 
-Imagine you need to display your graphic design portfolio and… sell some t-shirts. 
-With Roadiz you will be able to create your content forms from scratch and choose the right fields you need. 
-Images and texts for your projects. Images, texts, prices and even geolocation for your products. 
-That’s why it’s called polymorphic.
-
----
+### Latest news
 
 - [🚀 Roadiz v2 has launched](news/2022-09-09.md)
+
+
+### Documentation
+
+- Release branch: https://docs.roadiz.io/en/latest/
+- Develop branch: https://docs.roadiz.io/en/develop/
+
+### Selected works 
+
+- Opéra de Lyon: https://www.opera-lyon.com/en
+- Amiral Gestion: https://www.amiralgestion.com/en
+- Centre de Musique Baroque de Versailles - Expodcast: https://expodcast.cmbv.fr/en 
+- Klépierre: https://www.klepierre.com/en
+- Les Fauteuils de l’Opéra de Paris: https://fauteuils.operadeparis.fr/en /
+- Prison Insider: https://www.prison-insider.com/ 
+
+### More projects
+
+https://www.roadiz.io/showcase  

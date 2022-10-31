@@ -22,8 +22,8 @@ We designed it to break technical constraints when creating tailor-made websites
 - Amiral Gestion: https://www.amiralgestion.com/en
 - Centre de Musique Baroque de Versailles - Expodcast: https://expodcast.cmbv.fr/en 
 - Klépierre: https://www.klepierre.com/en
-- Les Fauteuils de l’Opéra de Paris: https://fauteuils.operadeparis.fr/en /
-- Prison Insider: https://www.prison-insider.com/ 
+- Les Fauteuils de l’Opéra de Paris: https://fauteuils.operadeparis.fr/en
+- Prison Insider: https://www.prison-insider.com
 
 ### More projects
 

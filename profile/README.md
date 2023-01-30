@@ -34,7 +34,7 @@ https://www.roadiz.io/showcase
 | Package  | Github actions         |
 | :------- | :--------------------- |
 | Skeleton | [![Run test status](https://github.com/roadiz/skeleton/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/skeleton/actions/workflows/run-test.yml) |
-| Models | [![Run test status](https://github.com/roadiz/models/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/models/actions/workflows/run-test.yml/badge.svg?branch=develop) |
+| Models | [![Run test status](https://github.com/roadiz/models/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/models/actions/workflows/run-test.yml) |
 | Documents | [![Run test status](https://github.com/roadiz/documents/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/documents/actions/workflows/run-test.yml) |
 | Core Bundle | [![Run test status](https://github.com/roadiz/core-bundle/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/core-bundle/actions/workflows/run-test.yml) |
 | Compat Bundle | [![Run test status](https://github.com/roadiz/compat-bundle/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/compat-bundle/actions/workflows/run-test.yml) |

@@ -28,3 +28,17 @@ We designed it to break technical constraints when creating tailor-made websites
 ### More projects
 
 https://www.roadiz.io/showcase  
+
+### Development pipelines
+
+| Package  | Github actions         |
+| :------- | :--------------------- |
+| Skeleton | [![Run test status](https://github.com/roadiz/skeleton/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/skeleton/actions/workflows/run-test.yml) |
+| Models | [![Run test status](https://github.com/roadiz/models/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/models/actions/workflows/run-test.yml/badge.svg?branch=develop) |
+| Documents | [![Run test status](https://github.com/roadiz/documents/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/documents/actions/workflows/run-test.yml) |
+| Core Bundle | [![Run test status](https://github.com/roadiz/core-bundle/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/core-bundle/actions/workflows/run-test.yml) |
+| Compat Bundle | [![Run test status](https://github.com/roadiz/compat-bundle/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/compat-bundle/actions/workflows/run-test.yml) |
+| Rozier Bundle | [![Run test status](https://github.com/roadiz/rozier-bundle/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/rozier-bundle/actions/workflows/run-test.yml) |
+| Rozier theme | [![Run test status](https://github.com/roadiz/rozier/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/rozier/actions/workflows/run-test.yml) |
+| User Bundle | [![Run test status](https://github.com/roadiz/user-bundle/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/user-bundle/actions/workflows/run-test.yml) |
+| Font Bundle | [![Run test status](https://github.com/roadiz/font-bundle/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/font-bundle/actions/workflows/run-test.yml) |

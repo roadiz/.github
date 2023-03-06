@@ -31,7 +31,7 @@ https://www.roadiz.io/showcase
 
 ### Development monorepo
 
-Since Roadiz v2.1, all Roadiz packages have been moved to [a single monorepo](https://github.com/roadiz/core-bundle-dev-app) to ensure code and version consistency and a smooth developement environment.
+Since Roadiz v2.1, all Roadiz packages have been moved to [a single monorepo](https://github.com/roadiz/core-bundle-dev-app) to ensure code and version consistency and a smooth development environment.
 
 ### Development pipelines
 

@@ -29,10 +29,15 @@ We designed it to break technical constraints when creating tailor-made websites
 
 https://www.roadiz.io/showcase  
 
+### Development monorepo
+
+Since Roadiz v2.1, all Roadiz packages have been moved to [a single monorepo](https://github.com/roadiz/core-bundle-dev-app) to ensure code and version consistency and a smooth developement environment.
+
 ### Development pipelines
 
 | Package  | Github actions         |
 | :------- | :--------------------- |
+| **Roadiz development monorepo** | [![Unit tests, static analysis and code style](https://github.com/roadiz/core-bundle-dev-app/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/core-bundle-dev-app/actions/workflows/run-test.yml) [![Packages Split](https://github.com/roadiz/core-bundle-dev-app/actions/workflows/split.yaml/badge.svg?branch=develop)](https://github.com/roadiz/core-bundle-dev-app/actions/workflows/split.yaml) |
 | Skeleton | [![Run test status](https://github.com/roadiz/skeleton/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/skeleton/actions/workflows/run-test.yml) |
 | Models | [![Run test status](https://github.com/roadiz/models/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/models/actions/workflows/run-test.yml) |
 | Documents | [![Run test status](https://github.com/roadiz/documents/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/documents/actions/workflows/run-test.yml) |

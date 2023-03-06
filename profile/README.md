@@ -25,10 +25,6 @@ We designed it to break technical constraints when creating tailor-made websites
 - Les Fauteuils de l’Opéra de Paris: https://fauteuils.operadeparis.fr/en
 - Prison Insider: https://www.prison-insider.com
 
-### More projects
-
-https://www.roadiz.io/showcase  
-
 ### Development monorepo
 
 Since Roadiz v2.1, all Roadiz packages have been moved to [a single monorepo](https://github.com/roadiz/core-bundle-dev-app) to ensure code and version consistency and a smooth development environment. Each Roadiz sub-package is automatically splitted by Github Actions and versioned into existing `roadiz/*` repositories. These repositories will be *read-only* from now.

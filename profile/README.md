@@ -15,6 +15,8 @@ We designed it to break technical constraints when creating tailor-made websites
 
 - Release branch: https://docs.roadiz.io/en/latest/
 - Develop branch: https://docs.roadiz.io/en/develop/
+- [Development changelog](https://github.com/roadiz/core-bundle-dev-app/blob/main/CHANGELOG.md) (since v2.1)
+- [Old development changelog](https://github.com/roadiz/core-bundle/blob/main/CHANGELOG.md) (before v2.1)
 
 ### Selected works 
 

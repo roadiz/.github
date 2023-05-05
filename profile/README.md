@@ -45,6 +45,7 @@ Since Roadiz v2.1, all Roadiz packages have been moved to [a single monorepo](ht
 | Rozier theme | [![Run test status](https://github.com/roadiz/rozier/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/rozier/actions/workflows/run-test.yml) |
 | User Bundle | [![Run test status](https://github.com/roadiz/user-bundle/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/user-bundle/actions/workflows/run-test.yml) |
 | Font Bundle | [![Run test status](https://github.com/roadiz/font-bundle/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/font-bundle/actions/workflows/run-test.yml) |
+| TwoFactor Bundle | [![Static analysis and code style](https://github.com/roadiz/two-factor-bundle/actions/workflows/run-test.yml/badge.svg)](https://github.com/roadiz/two-factor-bundle/actions/workflows/run-test.yml) |
 | Documentation generator | [![Run test status](https://github.com/roadiz/doc-generator/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/doc-generator/actions/workflows/run-test.yml) |
 | Typescript documentation generator | [![Run test status](https://github.com/roadiz/dts-generator/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/dts-generator/actions/workflows/run-test.yml) |
 | Entity generator | [![Run test status](https://github.com/roadiz/entity-generator/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/entity-generator/actions/workflows/run-test.yml) |

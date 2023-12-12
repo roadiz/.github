@@ -1,5 +1,3 @@
-# 👋
-
 **Roadiz** is a polymorphic CMS based on a node system that can handle many types of services. 
 It is based on *Symfony Flex*, *Doctrine ORM*, *API Platform*, *Twig* for maximum performances and security.
 
@@ -9,7 +7,6 @@ We designed it to break technical constraints when creating tailor-made websites
 ### Latest news
 
 - [🚀 Roadiz v2 has launched](news/2022-09-09.md)
-
 
 ### Documentation
 
@@ -21,6 +18,7 @@ We designed it to break technical constraints when creating tailor-made websites
 ### Selected works 
 
 - Opéra de Lyon: https://www.opera-lyon.com/en
+- Fraîche Design Thinking: https://www.fraichedesignthinking.com
 - Amiral Gestion: https://www.amiralgestion.com/en
 - Centre de Musique Baroque de Versailles - Expodcast: https://expodcast.cmbv.fr/en 
 - Klépierre: https://www.klepierre.com/en

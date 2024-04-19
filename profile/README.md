@@ -18,8 +18,10 @@ We designed it to break technical constraints when creating tailor-made websites
 ### Selected works 
 
 - Opéra de Lyon: https://www.opera-lyon.com/en
+- Cité musicale - Metz: https://www.citemusicale-metz.fr
 - Fraîche Design Thinking: https://www.fraichedesignthinking.com
 - Amiral Gestion: https://www.amiralgestion.com/en
+- Unanime Architectes: https://www.unanime.fr
 - Centre de Musique Baroque de Versailles - Expodcast: https://expodcast.cmbv.fr/en 
 - Klépierre: https://www.klepierre.com/en
 - Les Fauteuils de l’Opéra de Paris: https://fauteuils.operadeparis.fr/en

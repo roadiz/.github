@@ -17,6 +17,8 @@ We designed it to break technical constraints when creating tailor-made websites
 
 ### Selected works 
 
+- Les Célestins, Théâtre de Lyon: https://www.theatredescelestins.com
+- Modelec, High-End electrical equipment: https://www.modelec.com/en
 - Opéra de Lyon: https://www.opera-lyon.com/en
 - Cité musicale - Metz: https://www.citemusicale-metz.fr
 - Fraîche Design Thinking: https://www.fraichedesignthinking.com

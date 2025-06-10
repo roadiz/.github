@@ -44,6 +44,7 @@ Since Roadiz v2.1, all Roadiz packages have been moved to [a single monorepo](ht
 | Compat Bundle | [![Run test status](https://github.com/roadiz/compat-bundle/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/compat-bundle/actions/workflows/run-test.yml) |
 | Rozier Bundle | [![Run test status](https://github.com/roadiz/rozier-bundle/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/rozier-bundle/actions/workflows/run-test.yml) |
 | Rozier theme | [![Run test status](https://github.com/roadiz/rozier/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/rozier/actions/workflows/run-test.yml) |
+| Solr Bundle | [![Run test status](https://github.com/roadiz/solr-bundle/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/solr-bundle/actions/workflows/run-test.yml) |
 | User Bundle | [![Run test status](https://github.com/roadiz/user-bundle/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/user-bundle/actions/workflows/run-test.yml) |
 | Font Bundle | [![Run test status](https://github.com/roadiz/font-bundle/actions/workflows/run-test.yml/badge.svg?branch=develop)](https://github.com/roadiz/font-bundle/actions/workflows/run-test.yml) |
 | TwoFactor Bundle | [![Static analysis and code style](https://github.com/roadiz/two-factor-bundle/actions/workflows/run-test.yml/badge.svg)](https://github.com/roadiz/two-factor-bundle/actions/workflows/run-test.yml) |

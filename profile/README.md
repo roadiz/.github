@@ -16,12 +16,14 @@ We designed it to break technical constraints when creating tailor-made websites
 
 ### Selected works 
 
+- Cité internationale de la Tapisserie d'Aubusson: https://www.cite-tapisserie.fr/
+- Les Nuits de Fourvière: https://www.nuitsdefourviere.com
+- Musée du Mémorial de Verdun: https://memorial-verdun.fr
 - Les Célestins, Théâtre de Lyon: https://www.theatredescelestins.com
 - Modelec, High-End electrical equipment: https://www.modelec.com/en
 - Opéra de Lyon: https://www.opera-lyon.com/en
 - Cité musicale - Metz: https://www.citemusicale-metz.fr
 - Fraîche Design Thinking: https://www.fraichedesignthinking.com
-- Amiral Gestion: https://www.amiralgestion.com/en
 - Unanime Architectes: https://www.unanime.fr
 - Centre de Musique Baroque de Versailles - Expodcast: https://expodcast.cmbv.fr/en 
 - Klépierre: https://www.klepierre.com/en

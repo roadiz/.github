@@ -6,7 +6,7 @@ We designed it to break technical constraints when creating tailor-made websites
 
 ### Latest news
 
-- [🚀 Roadiz v2 has launched](news/2022-09-09.md)
+- [🚀 Roadiz v2 has launched](https://github.com/roadiz/.github/blob/main/news/2022-09-09.md)
 
 ### Documentation
 

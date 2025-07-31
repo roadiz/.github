@@ -16,6 +16,7 @@ We designed it to break technical constraints when creating tailor-made websites
 
 ### Selected works 
 
+- La Comédie - Saint-Étienne: https://www.lacomedie.fr/
 - Cité internationale de la Tapisserie d'Aubusson: https://www.cite-tapisserie.fr/
 - Les Nuits de Fourvière: https://www.nuitsdefourviere.com
 - Musée du Mémorial de Verdun: https://memorial-verdun.fr

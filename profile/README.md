@@ -4,15 +4,12 @@ It is based on *Symfony Flex*, *Doctrine ORM*, *API Platform*, *Twig* for maximu
 Roadiz node system allows you to create your data schema and to organize your content as you want. 
 We designed it to break technical constraints when creating tailor-made websites architectures and layouts.
 
-### Latest news
-
-- [🚀 Roadiz v2 has launched](https://github.com/roadiz/.github/blob/main/news/2022-09-09.md)
-
 ### Documentation
 
 - https://docs.roadiz.io
 - [Development changelog](https://github.com/roadiz/core-bundle-dev-app/blob/main/CHANGELOG.md) (since v2.1)
 - [Old development changelog](https://github.com/roadiz/core-bundle/blob/main/CHANGELOG.md) (before v2.1)
+- [🚀 Roadiz v2 has launched](https://github.com/roadiz/.github/blob/main/news/2022-09-09.md)
 
 ### Selected works 
 
